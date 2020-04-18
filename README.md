@@ -4,5 +4,5 @@ I still have no idea how angular works or how to host angular apps.
 
 Help with either of these would be much appreciated!
 
-PS: React is way better!  
+PS: React is much better than angular!  
 B-)
